@@ -1,2 +1,1 @@
-Indian_Flag
-I have designed Indian Flag using only HTML5 and CSS5 by refering to the construction specification as mentioned in WikiPedia, Hope you Like my work.
+As a Flag needs to designed with at most care and precaution, I used the construction sepecification mentioned in the WikiPedia website, so for a better view and user interface please view the website using Computer or Laptop.
