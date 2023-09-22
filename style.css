@@ -1,0 +1,185 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    width: 900px;
+    height: 600px;
+    box-shadow: 0px 0px 5px 5px #888;
+    position: relative;
+    top: 50px;
+    left: 100px;
+    bottom: 50px;
+    z-index: -1;
+}
+
+.India_saffron {
+    background-color: #FF671F ;
+    height: 200px;
+    width: 100%;
+    position: relative;
+}
+.Ashoka_Chakra_1{
+    background-color: #06038D;
+    height: 185px;
+    width: 185px;
+    border-radius: 50%;
+    position: relative;
+    top: 7.5px;
+    left: 357.5px;
+}
+.Ashoka_Chakra_2 {
+    background-color: white;
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    position: absolute;
+    left: 12.5px;
+    top: 12.5px;
+}
+.Ashoka_Chakra_3 {
+    background-color: #06038D;
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+    position: absolute;
+    top: 80px;
+    left: 75px;
+}
+
+.spoke_1 {
+    background-color: #06038D;
+    height: 184px;
+    width: 6px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 100% 95% 95% 100%;
+    left: 90px;
+}
+.spoke_2 {
+    background-color: #06038D;
+    height: 184px;
+    width: 6px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 100% 95% 95% 100%;
+    left: 90px;
+    transform: rotate(15deg);
+}
+.spoke_3 {
+    background-color: #06038D;
+    height: 184px;
+    width: 6px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 100% 95% 95% 100%;
+    left: 90px;
+    transform: rotate(30deg);
+}
+.spoke_4 {
+    background-color: #06038D;
+    height: 184px;
+    width: 6px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 100% 95% 95% 100%;
+    left: 90px;
+    transform: rotate(45deg);
+}
+.spoke_5 {
+    background-color: #06038D;
+    height: 184px;
+    width: 6px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 100% 95% 95% 100%;
+    left: 90px;
+    transform: rotate(60deg);
+}
+.spoke_6 {
+    background-color: #06038D;
+    height: 184px;
+    width: 6px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 100% 95% 95% 100%;
+    left: 90px;
+    transform: rotate(75deg);
+}
+.spoke_7 {
+    background-color: #06038D;
+    height: 184px;
+    width: 6px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 100% 95% 95% 100%;
+    left: 90px;
+    transform: rotate(90deg);
+}
+.spoke_8 {
+    background-color: #06038D;
+    height: 184px;
+    width: 6px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 100% 95% 95% 100%;
+    left: 90px;
+    transform: rotate(105deg);
+}
+.spoke_9 {
+    background-color: #06038D;
+    height: 184px;
+    width: 6px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 100% 95% 95% 100%;
+    left: 90px;
+    transform: rotate(120deg);
+}
+.spoke_10 {
+    background-color: #06038D;
+    height: 184px;
+    width: 6px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 100% 95% 95% 100%;
+    left: 90px;
+    transform: rotate(135deg);
+}
+.spoke_11 {
+    background-color: #06038D;
+    height: 184px;
+    width: 6px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 100% 95% 95% 100%;
+    left: 90px;
+    transform: rotate(150deg);
+}
+.spoke_12 {
+    background-color: #06038D;
+    height: 184px;
+    width: 6px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 100% 95% 95% 100%;
+    left: 90px;
+    transform: rotate(165deg);
+}
+body {
+    font-family: sans-serif;
+}
+
+.India_Green {
+    background-color: #046A38;
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    top: 400px;
+}
+.h1 {
+    position: absolute;
+    margin-top: 220px;
+    text-align: center;
+    margin-left: 310px;
+}
